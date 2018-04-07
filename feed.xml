@@ -6,18 +6,14 @@
 </nav></header><main><article class="post"><header class="post-header"><h2 class="post-title"></h2></header>
 <div class="post-content"><?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title></title>
-<link><description>This is minformation and links to code for LJC events</description>
+<link><description>This is information and links for LJC events</description>
 <atom:link href="undefined/feed.xml" rel="self" type="application/rss+xml"></atom:link>
 <item><title>This is a Barry</title><description><![CDATA[<p></p><div class="image">
 <img src="/blog/img/member_10164755.jpg" alt="Image description"/></div><p></p>]]></description><pubdate></pubdate>
 <link>/blog/this-is-a-post<guid ispermalink="true">/blog/this-is-a-post</guid></item><item>
-<title>This is another</title><description><![CDATA[<p></p>]]></description><pubdate></pubdate>
-<link>/blog/this-is-another-post<guid ispermalink="true">/blog/this-is-another-post</guid></item>
-<item><title>And another one</title><description>
-<![CDATA[<p></p>
+<p></p>
 <blockquote class="quote"><p class="quote-text"></p><footer class="quote-source"></footer></blockquote>
-<p><a href="https://www.youtube.com/watch?v=GemKqzILV4w" target="_blank">mixtape</a> </p>
-<div class="video"><iframe src="https://www.youtube.com/watch?v=GemKqzILV4w" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-</div>]]></description><pubdate>Thurs, 01 March 2018 01:00:00 +0100</pubdate>
-<link>/blog/and-another-one<guid ispermalink="true">/blog/and-another-one</guid></item></channel></rss></div></article></main>
+<p></p>
+<pubdate>Thurs, 01 March 2018 01:00:00 +0100</pubdate>
+<link></item></channel></rss></div></article></main>
 <footer class="footer">&copy; 2018 My blog</footer><script src="/assets/js/scripts.js"></script></body></html>
