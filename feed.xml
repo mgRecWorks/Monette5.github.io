@@ -1,17 +1,17 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><link rel="stylesheet" href="/assets/css/style.css"><title> | My blog</title></head>
-<body><header class="header"><a href="/" class="header-logo"><h1>My cats</h1></a>
-<nav class="navigation"><ul><li><a href="/">Home</a></li>
-<li><a href="/about">About</a></li>
-<li><a href="/projects">My projects</a></li></ul>
+<!DOCTYPE html><html><head><meta charset="utf-8"><link rel="stylesheet" href="/assets/css/style.css"><title> | Events/title></head>
+<body><header class="header"><a href="/" class="header-logo"><h1>Java</h1></a>
+<nav class="navigation"><ul><li><a href="/">Events</a></li>
+<li><a href="/Java">LJC Information</a></li>
+<li><a href="/LJC Information">Links</a></li></ul>
 </nav></header><main><article class="post"><header class="post-header"><h2 class="post-title"></h2></header>
 <div class="post-content"><?xml version="1.0" encoding="utf-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title></title>
-<link><description>This is my blog where I post stuff</description>
+<link><description>This is minformation and links to code for LJC events</description>
 <atom:link href="undefined/feed.xml" rel="self" type="application/rss+xml"></atom:link>
-<item><title>This is a post</title><description><![CDATA[<p></p><div class="image">
-<img src="/blog/img/prague1.JPG" alt="Image description"/></div><p></p>]]></description><pubdate></pubdate>
+<item><title>This is a Barry</title><description><![CDATA[<p></p><div class="image">
+<img src="/blog/img/member_10164755.jpg" alt="Image description"/></div><p></p>]]></description><pubdate></pubdate>
 <link>/blog/this-is-a-post<guid ispermalink="true">/blog/this-is-a-post</guid></item><item>
-<title>This is another post</title><description><![CDATA[<p></p>]]></description><pubdate></pubdate>
+<title>This is another</title><description><![CDATA[<p></p>]]></description><pubdate></pubdate>
 <link>/blog/this-is-another-post<guid ispermalink="true">/blog/this-is-another-post</guid></item>
 <item><title>And another one</title><description>
 <![CDATA[<p></p>
